@@ -1,0 +1,10 @@
+public class JavaCommentsExample {
+  // This is a single-line Java comment
+
+  public static void main(String[] args) {
+
+    System.out.println("This line will run.");
+    //System.out.println("This line will not run.");
+
+  }
+}

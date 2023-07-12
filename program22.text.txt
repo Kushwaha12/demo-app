@@ -1,0 +1,11 @@
+public class CommentsExample {
+   /*
+      Following is the main method here,
+      We create a variable named num.
+      And, print its value    
+   * */
+   public static void main(String args[]) {
+      int num = 1;
+      System.out.println("value if the variable num: "+num);
+   }
+}
